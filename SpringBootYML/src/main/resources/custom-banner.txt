@@ -1,0 +1,12 @@
+${AnsiBackground.WHITE}${AnsiColor.RED}
+.oOOOo.  OooOOo.  `OooOOo.  ooOoOOo o.     O  .oOOOo.        o.oOOOo.     Oo    .oOOOo.  ooOoOOo  .oOOOo.  .oOOOo.  
+o     o  O     `O  o     `o    O    Oo     o .O     o         o     o    o  O   o     o     O    .O     o  o     o  
+O.       o      O  O      O    o    O O    O o                O     O   O    o  O.          o    o         O.       
+ `OOoo.  O     .o  o     .O    O    O  o   o O                oOooOO.  oOooOoOo  `OOoo.     O    o          `OOoo.  
+      `O oOooOO'   OOooOO'     o    O   o  O O   .oOOo        o     `O o      O       `O    o    o               `O 
+       o o         o    o      O    o    O O o.      O        O      o O      o        o    O    O                o 
+O.    .O O         O     O     O    o     Oo  O.    oO        o     .O o      O O.    .O    O    `o     .o O.    .O 
+ `oooO'  o'        O      o ooOOoOo O     `o   `OooO'         `OooOO'  O.     O  `oooO'  ooOOoOo  `OoooO'   `oooO' 
+ 
+Spring Boot ${spring-boot.version}
+${application.title} - ${application.formatted-version}${AnsiBackground.DEFAULT}

@@ -1,0 +1,28 @@
+logging:
+  level:
+    com:
+      srg:
+        springboot: DEBUG
+    org:
+      springframework:
+        boot:
+          autoconfigure: DEBUG
+my:
+  listValue: '"one","two","three"'
+  mapValues: '{connection:''connection value''}'
+  message: Hello world from value message
+props:
+  connections:
+    key1: true
+    key2: true
+    key3: true
+  default-recipients:
+  - sandip
+  - arati
+  host: myApp.com
+  port: 226
+server:
+  port: 9092
+spring:
+  banner:
+    location: classpath:custom-banner.txt
